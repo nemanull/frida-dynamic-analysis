@@ -8,8 +8,8 @@ Original author: Daniele Linguaglossa
 Java.perform(function() {
     antiroot1();
     antiADB();
-    universalSSLpinning();
-    emulatur_anti_detect();
+    universalSSLpinning();  
+    emulatur_anti_detect();    //only on emulator 
     androidpinningwithoutca1();
     auxiliary_android_pinning_hooks();
     webvieu();
